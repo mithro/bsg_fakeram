@@ -1,7 +1,7 @@
 # BSG Black-box SRAM Generator
 
-This project is desgined to generate black-boxed SRAMs for use in CAD flows
-where either an SRAM generator is not avaible or doesn't exist.
+This project is designed to generate black-boxed SRAMs for use in CAD flows
+where either an SRAM generator is not available or doesn't exist.
 
 ## Setup
 
